@@ -1,9 +1,5 @@
 <template>
-  <div>
-    <h1>Chris Sherman's Vue Boilerplate</h1>
-    <router-link to="/vue-default">Go to Default Vue Page</router-link>
-    <router-view/>
-  </div>
+  <router-view/>
 </template>
 
 <script>
