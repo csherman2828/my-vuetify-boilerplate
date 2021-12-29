@@ -1,4 +1,4 @@
-# cognito_project
+# Chris Sherman's Vue Boilerplate
 
 ## Project setup
 ```
